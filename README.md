@@ -1,6 +1,5 @@
 ![](https://projecteuler.net/profile/joelsleeba.png)
 
-About Me
 ---
 Hi, I'm Joel Sleeba. I am a graduate student in IISER Thiruvananthapuram. Right now I am studying Fourier analysis for my master's project. You can find the updates [here](https://github.com/joelsleeba/Master-s-Project/tree/master/Study). Thanks to [it@school](https://kite.kerala.gov.in), I was introduced to Ubuntu 10.04 operating system in my school. In a few years I started my migration from windows to Linux. Although Linux operating systems didn't have that sleek GUI back then, the fact that I wouldn't be annoyed by Cortana, and the frequent windows updates that break my system made me stick with Linux. Now I'm using Manjaro as my daily operating system. I'm soon planning to shift to the holy 'Arch' once I'm done with my master's project. I'm using [NeoVim](neovim.org) in [LunarVim](lunarvim.org) config as text editor. You will be able to find my configs in the repo [dotfiles](github.com/joelsleeba/dotfiles).
 
