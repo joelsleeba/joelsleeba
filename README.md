@@ -6,4 +6,4 @@ Hi, I'm Joel Sleeba. I am a graduate student in IISER Thiruvananthapuram. Right 
 I have a blog I sometimes write and share few pictures on. You can visit it [here](joelsleeba.github.io/blog).
 Also there is a series of webpages I created when I was learning CSS. I still use google to center and align stuff, but I think that project is one of the coolest things I've done. You can checkout that in [CSSArt](joelsleeba.github.io/CSSart). 
 
-And that's something about me. If you want to know more, feel free to write to me. You'll get my email from [here](joelsleeba.github.io). You might find me on Instagram, but I'm not very active there _(Let's say, I am a good boy and wants to stay away from distractions)_. 
+And that's something about me. If you want to know more, feel free to write to me. You'll get my mail ID from [here](joelsleeba.github.io). You might find me on Instagram, but I'm not very active there _(Let's say, I am a good boy and wants to stay away from distractions)_. 
